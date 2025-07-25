@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi!
+
+My name is Ken, and I am an aspiring Software Engineer.
+Currently Studing Bacholor of Computing at Belgium Campus ITversity.
 
 <!--
 **KenAspeling/KenAspeling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
