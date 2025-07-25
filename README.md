@@ -10,9 +10,6 @@ My name is Ken, and I am an aspiring Software Engineer studing Bachelor of Compu
 - 🌱 I’m currently learning OpenCV in Python.
 - 👯 I’m looking to collaborate on Computer Vision Projects.
 
-**CV:**
-[Click here!](https://industryconnect.belgiumcampus.ac.za/sites/s600551/)
-
 <!--
 **KenAspeling/KenAspeling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
