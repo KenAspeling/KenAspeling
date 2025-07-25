@@ -1,14 +1,14 @@
-## Hi!
+## Hello World! 👋
 
-My name is Ken, and I am an aspiring Software Engineer.
-Currently Studing Bacholor of Computing at Belgium Campus ITversity.
+My name is Ken, and I am an aspiring Software Engineer studing Bachelor of Computing at Belgium Campus ITversity.
 
-🔭 I’m currently working on Echo Me, building an AI sign langauge translator.
-🌱 I’m currently learning OpenCV in Python.
-👯 I’m looking to collaborate on Computer Vision Projects.
-🤔 I’m looking for help with ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
+**MAIN PROJECT:**
+- 🤖 **Echo Me**, a Real-Time Sign Langauge Translator with the use of Machine Learning and Computer Vision.
+
+**MORE ABOUT ME:**
+
+- 🌱 I’m currently learning OpenCV in Python.
+- 👯 I’m looking to collaborate on Computer Vision Projects.
 
 <!--
 **KenAspeling/KenAspeling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
